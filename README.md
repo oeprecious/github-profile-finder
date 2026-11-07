@@ -1,7 +1,7 @@
 # GitHub Profile Finder
 A practice project built after revising the Fetch API. I connected it to the real GitHub Public API to display user profiles and reinforce async requests, error handling, and DOM updates.
 
-Live Demo: https://oeprxc.github.io/github-profile-finder/
+Live Demo: https://oeprecious.github.io/github-profile-finder/
 
 ### Features
 - Search any GitHub username using the GitHub Public API
@@ -25,4 +25,4 @@ This project helped me practice moving from mock data to working with live APIs.
 ### How to Use
 Clone the repo:
 ```bash
-git clone https://github.com/oeprxc/github-profile-finder.git
+git clone https://github.com/oeprecious/github-profile-finder.git
